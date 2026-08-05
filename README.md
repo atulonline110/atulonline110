@@ -67,7 +67,6 @@ A well-structured repository documenting my Data Structures & Algorithms learnin
 **Highlights**
 
 - Daily coding practice
-- Abdul Bari's DSA course
 - Clean folder organization
 - Interview-focused problems
 
