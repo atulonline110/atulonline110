@@ -87,19 +87,6 @@ Learning Full Stack Web Development from scratch.
 
 ---
 
-## 📚 Library Management System
-
-Python-based project implementing real-world library operations.
-
-**Features**
-
-- Authentication
-- CRUD Operations
-- Student & Book Management
-- Issue & Return Books
-- CSV Database
-
----
 
 # 📈 GitHub Activity
 
