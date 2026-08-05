@@ -1,96 +1,55 @@
 <h1 align="center">Hi 👋, I'm Atul Kumar Verma</h1>
 
-<h3 align="center">
-💻 B.Tech Computer Science Student | 🚀 Aspiring Full Stack Developer
-</h3>
+<h3 align="center">💻 B.Tech CSE Student | 🚀 Aspiring Software Developer</h3>
 
 <p align="center">
-Building real-world projects while mastering Data Structures & Algorithms and Full Stack Development.
-</p>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!;Full+Stack+Developer+in+Progress;DSA+Enthusiast;Learning+Something+New+Every+Day" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!;DSA+Enthusiast;Web+Developer;Always+Learning+Something+New!" />
 </p>
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
-- 🎓 B.Tech Computer Science Student
-- 💻 Aspiring Full Stack Developer
-- 🚀 Solving Data Structures & Algorithms daily using **C++**
-- 🌐 Building responsive web applications with modern technologies
-- 📚 Currently learning **JavaScript, Node.js, Express.js, MongoDB**
-- 🎯 Looking for **Software Development Internship** opportunities
+- 🎓 B.Tech Computer Science Engineering Student
+- 💻 Learning Data Structures & Algorithms in **C++**
+- 🌐 Learning **HTML, CSS, JavaScript & SQL**
+- 🚀 Building projects and improving every day
+- 🎯 Goal: Become a Software Developer
 
 ---
 
-# 🛠 Tech Stack
+## 🛠️ Tech Stack
 
 ### Languages
-
 - C++
 - C
 - Python
 - JavaScript
 
-### Frontend
-
+### Web Development
 - HTML5
 - CSS3
-- Responsive Design
-
-### Backend
-
-- Node.js
-- Express.js
+- JavaScript
 
 ### Database
-
 - MySQL
-- MongoDB
 
 ### Tools
-
 - Git
 - GitHub
 - VS Code
 
 ---
 
-# 🚀 Featured Projects
-
-## 💻 DSA Journey
-
-A well-structured repository documenting my Data Structures & Algorithms learning journey.
-
-**Highlights**
-
-- Daily coding practice
-- Clean folder organization
-- Interview-focused problems
-
----
-
-## 🌐 Web Development Journey
-
-Learning Full Stack Web Development from scratch.
-
-**Tech Used**
-
-- HTML5
-- CSS3
-- JavaScript
-- Responsive Design
-- MERN Stack (In Progress)
-
----
-
-# 📈 GitHub Activity
+## 📊 GitHub Stats
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=atulonline110&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=atulonline110&show_icons=true&theme=tokyonight"/>
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atulonline110&layout=compact&theme=tokyonight"/>
 
 <br><br>
 
@@ -100,29 +59,23 @@ Learning Full Stack Web Development from scratch.
 
 ---
 
-# 🤝 Connect With Me
+## 🚀 Current Focus
 
-- 💼 LinkedIn
-- 📧 Email
-- 💻 GitHub
-- 🧩 LeetCode
-
----
-
-# 💡 Favorite Quote
-
-> **"Consistency beats intensity. Every project, every bug, and every line of code is a step toward becoming a better developer." 🚀**
+- ✅ Data Structures & Algorithms
+- ✅ Web Development
+- ✅ Git & GitHub
+- ✅ Open Source
 
 ---
 
-<h3 align="center">
-⭐ Thanks for visiting my profile!
-</h3>
+## 📫 Connect With Me
 
-<p align="center">
-If you like my work, consider giving a ⭐ to my repositories.
-</p>
+- 💻 GitHub: https://github.com/atulonline110
+- 🧩 LeetCode: https://leetcode.com/
+- 💼 LinkedIn: https://linkedin.com/
 
-<p align="center">
-Let's Learn • Build • Grow Together 🚀
-</p>
+---
+
+## 💡 Quote
+
+> **"Consistency beats talent when talent doesn't stay consistent." 🚀**
